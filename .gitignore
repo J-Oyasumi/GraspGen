@@ -89,3 +89,7 @@ logs/*
 cache/
 misc/*
 data/*
+
+demos
+GraspGenModels/
+pointnet2_ops/
